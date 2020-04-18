@@ -1,0 +1,33 @@
+#+TITLE: Fonts
+
+* Fonts
+This is a collection of fonts which I like, and have collected over the years.
+
+* Why?
+I found myself repeatedly looking for font pairings for projects. I figured a collection would help me with this :bowtie:
+
+* Font List
+
+** Google Fonts
+- [H]  [[https://fonts.google.com/specimen/Amatic+SC][Amatic SC]]
+- [H]  [[https://fonts.google.com/specimen/Permanent+Marker][Permanent Marker]]
+- [M]  [[https://fonts.google.com/specimen/Fira+Mono][Fira Mono]]
+- [M]  [[https://fonts.google.com/specimen/Inconsolata][Inconsolata]]
+- [M]  [[https://fonts.google.com/specimen/Roboto+Mono][Roboto Mono]]
+- [M]  [[https://fonts.google.com/specimen/Source+Code+Pro][Source Code Pro]]
+- [S]  [[https://fonts.google.com/specimen/Arvo][Arvo]]
+- [S]  [[https://fonts.google.com/specimen/Lora][Lora]]
+- [S]  [[https://fonts.google.com/specimen/Playfair+Display][Playfair Display]]
+- [SS] [[https://fonts.google.com/specimen/Bebas+Neue][Bebas Neue]]
+- [SS] [[https://fonts.google.com/specimen/Lato][Lato]]
+- [SS] [[https://fonts.google.com/specimen/Libre+Franklin][Libre Franklin]]
+- [SS] [[https://fonts.google.com/specimen/Nunito][Nunito]]
+- [SS] [[https://fonts.google.com/specimen/Open+Sans][Open Sans]]
+- [SS] [[https://fonts.google.com/specimen/Oxygen][Oxygen]]
+- [SS] [[https://fonts.google.com/specimen/Poppins][Poppins]]
+- [SS] [[https://fonts.google.com/specimen/Quicksand][Quicksand]]
+- [SS] [[https://fonts.google.com/specimen/Roboto][Roboto]]
+- [SS] [[https://fonts.google.com/specimen/Source+Sans+Pro][Source Sans Pro]]
+- [SS] [[https://fonts.google.com/specimen/Varela+Round][Varela Round]]
+
+** _Not_ Google Fonts :sweat_smile:
