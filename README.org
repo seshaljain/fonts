@@ -30,4 +30,11 @@ I found myself repeatedly looking for font pairings for projects. I figured a co
 - [SS] [[https://fonts.google.com/specimen/Source+Sans+Pro][Source Sans Pro]]
 - [SS] [[https://fonts.google.com/specimen/Varela+Round][Varela Round]]
 
-** _Not_ Google Fonts :sweat_smile:
+** _Not_ Google Fonts :sweaty_smile:
+- [H]  [[http://www.blokkfont.com/][BLOKK]]
+- [H]  [[https://github.com/christiannaths/Redacted-Font][Redacted]]
+- [M]  [[https://rubjo.github.io/victor-mono/][Victor Mono]]
+- [M]  [[https://www.monolisa.dev/][Mono Lisa]]
+- [SS] [[https://github.com/chrismsimpson/Metropolis][Metropolis]]
+- [SS] [[https://mplus-fonts.osdn.jp/about-en.html][M+ Fonts]]
+- [SS] [[https://rsms.me/inter/][Inter]]
